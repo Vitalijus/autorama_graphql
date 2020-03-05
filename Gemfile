@@ -22,7 +22,7 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-# A Ruby implementation of GraphQL dev branch.
+# A Ruby implementation of GraphQL. On remote master branch
 gem 'graphql'
 
 # Use Active Storage variant
